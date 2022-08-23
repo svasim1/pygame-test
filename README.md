@@ -4,4 +4,4 @@ A game coded in Python.
 
 Usage
 ------
-Run the executable.
+Run the batch file.
