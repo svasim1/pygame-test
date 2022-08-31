@@ -21,7 +21,7 @@ CHARACTER_WIDTH = 252
 CHARACTER_HEIGHT = 86
 
 #Sounds
-THROTTLE = pygame.mixer.Sound(os.path.join("Assets", "throttle.wav"))
+#THROTTLE = pygame.mixer.Sound(os.path.join("Assets", "throttle.wav"))
 
 #Window
 WIDTH, HEIGHT = 1280, 720
